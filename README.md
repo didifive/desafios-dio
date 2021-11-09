@@ -17,9 +17,6 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
                 <th colspan="4">Iniciando a programação em Java</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
-            </tr>
-            <tr>
                 <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
