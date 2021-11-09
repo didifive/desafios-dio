@@ -17,7 +17,7 @@ Saída
 Para cada arquivo da entrada, tem que ter um arquivo de saída com quatro linhas, e em cada linha um número inteiro de acordo com procedimento 2 descrito no Desafio. Confira o exemplo abaixo:
 
 --------------------------------------------
-| Exemplos de Entrada	 | Exemplos de Saída |
+| Exemplos de Entrada  | Exemplos de Saída |
 | 000.000.000-00       | 000               |
 |                      | 000               |
 |                      | 000               |
@@ -25,7 +25,7 @@ Para cada arquivo da entrada, tem que ter um arquivo de saída com quatro linhas
 --------------------------------------------
 
 --------------------------------------------
-| Exemplos de Entrada	 | Exemplos de Saída |
+| Exemplos de Entrada  | Exemplos de Saída |
 | 320.025.102-01       | 320               |
 |                      | 025               |
 |                      | 102               |
