@@ -14,7 +14,11 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
         <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Iniciando a programação em Java</th>
+                <th colspan="4">
+			<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java">
+				Iniciando a programação em Java
+			</a>
+		</th>
             </tr>
             <tr>
                 <th>Etapa</th>
