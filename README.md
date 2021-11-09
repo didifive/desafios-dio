@@ -1,10 +1,10 @@
-#Desafios e soluções da [dio.me](https://www.dio.me/)
+# Desafios e soluções da [dio.me](https://www.dio.me/)
 
 Este repositório foi criado para guardar e demonstrar como foram solucionados desafios realizados em bootcamps e eventos na plataforma da [dio.me](https://www.dio.me/)
 
 Sugestão: evite o copia e cola, a ideia dos desafios é que você os enfrente, então se na dificuldade chegou até aqui, aproveite para ver como o desafio foi solucionado e como pode ser melhorado, a análise é o mínimo a se fazer.
 
-Seguem abaixo os links para os desafios:
+Seguem abaixo os links para os desafios conforme a linguagem de programação:
 
 <!-- Java -->
 <details>
