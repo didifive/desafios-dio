@@ -4,7 +4,7 @@
 
 ### Trilha de desafios: Solucionando desafios matemáticos em Java
 
-Nesta pasta encontram-se os desafios "Iniciando a programação em Java" do bootcamp "Code Anywhere - Avanade" da [dio.me](https://www.dio.me/)
+Nesta pasta encontram-se os desafios de "Solucionando desafios matemáticos em Java" do bootcamp "Code Anywhere - Avanade" da [dio.me](https://www.dio.me/)
 
 Sugestão: evite o copia e cola, a ideia dos desafios é que você os enfrente, então se na dificuldade chegou até aqui, aproveite para ver como o desafio foi solucionado e como pode ser melhorado, a análise é o mínimo a se fazer.
 
