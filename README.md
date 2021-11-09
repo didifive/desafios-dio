@@ -82,6 +82,46 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				</td>
                 <td align="center">✅</td>
             </tr>
+			<tr>
+                <td align="center">2</td>
+                <td>Área do Círculo</td>
+                <td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/AreaDoCirculo.java">
+						Código
+					</a>
+				</td>
+                <td align="center">✅</td>
+            </tr>
+			<tr>
+                <td align="center">3</td>
+                <td>Folha de Pagamento</td>
+                <td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/FolhaDePagamento.java">
+						Código
+					</a>
+				</td>
+                <td align="center">✅</td>
+            </tr>
+			<tr>
+                <td align="center">4</td>
+                <td>Múltiplos</td>
+                <td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/Multiplos.java">
+						Código
+					</a>
+				</td>
+                <td align="center">✅</td>
+            </tr>
+			<tr>
+                <td align="center">5</td>
+                <td>Análise de Números</td>
+                <td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/AnaliseDeNumeros.java">
+						Código
+					</a>
+				</td>
+                <td align="center">✅</td>
+            </tr>
 		</table>
     </div>
 </details>
