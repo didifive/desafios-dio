@@ -1,8 +1,8 @@
-#Desafios e soluções da [dio.me](https://www.dio.me/)
+# Desafios e soluções da [dio.me](https://www.dio.me/)
 
-##Bootcamp Code Anywhere - Avanade
+## Bootcamp Code Anywhere - Avanade
 
-###Desafios: Iniciando a programação em Java
+### Trilha de desafios: Iniciando a programação em Java
 
 Nesta pasta encontram-se os desafios "Iniciando a programação em Java" do bootcamp "Code Anywhere - Avanade" da [dio.me](https://www.dio.me/)
 
@@ -14,9 +14,6 @@ Seguem abaixo os links para os desafios:
 	<table border=1>
 		<tr>
 			<th colspan="4">Iniciando a programação em Java</th>
-		</tr>
-		<tr>
-			<th colspan="4"></th>
 		</tr>
 		<tr>
 			<th>Etapa</th>
