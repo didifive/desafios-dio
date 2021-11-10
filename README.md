@@ -16,7 +16,7 @@
 	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=for-the-badge&logo=Java">
 	</a>
 	<a href="https://www.javascript.com/">
-	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=yellow&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
 	</a>
 </p>
 
