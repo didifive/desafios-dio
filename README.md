@@ -13,7 +13,7 @@
 
 <p align="center">
 	<a href="https://dev.java/">
-	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&message=Java&style=plastic&logo=Java">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Java&style=flat&logo=Java">
 	</a>
 </p>
 
