@@ -15,6 +15,9 @@
 	<a href="https://dev.java/">
 	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=flat&logo=Java">
 	</a>
+	<a href="https://www.javascript.com/">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=JavaScript&style=flat&logo=Javascript">
+	</a>
 </p>
 
 Este repositório foi criado para guardar e demonstrar como foram solucionados desafios realizados em bootcamps e eventos na plataforma da [dio.me](https://www.dio.me/)
