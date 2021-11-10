@@ -158,6 +158,16 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				</td>
                 <td align="center">✅</td>
             </tr>
+	    <tr>
+			<td align="center">3</td>
+			<td>Análise de Números</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/AnaliseDeNumeros.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
 		</table>
     </div>
 </details>
