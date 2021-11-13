@@ -553,7 +553,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript">
 					Desafios Médios JavaScript 
 				</a>
 			</th>
