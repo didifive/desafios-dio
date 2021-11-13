@@ -549,5 +549,51 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 					<td align="center">✅</td>
 				</tr>
 		</table>
+		<!-- Desafios Médios JavaScript -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript">
+					Desafios Médios JavaScript 
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+				<tr>
+					<td align="center">1</td>
+					<td>Fases da Lua</td>
+					<td>
+						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/FasesDaLua.js">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
+				<tr>
+					<td align="center">2</td>
+					<td>Polígonos Regulares Simples</td>
+					<td>
+						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/PoligonosRegularesSimples.js">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
+				<tr>
+					<td align="center">3</td>
+					<td>Teorema da Divisão Euclidiana</td>
+					<td>
+						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/TeoremaDaDivisaoEuclidiana.js">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
+		</table>
 	</div>
 </details>
