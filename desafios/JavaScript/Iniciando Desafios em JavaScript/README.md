@@ -13,11 +13,7 @@ Seguem abaixo os links para os desafios:
 <div align="left">
 	<table border=1>
 		<tr>
-			<th colspan="4">
-			<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Iniciando%20Desafios%20em%20JavaScript">
-				Iniciando Desafios em JavaScript
-			</a>
-		</th>
+			<th colspan="4">Iniciando Desafios em JavaScript</th>
 		</tr>
 		<tr>
 			<th>Etapa</th>
