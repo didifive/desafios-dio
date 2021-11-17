@@ -235,6 +235,98 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Aceleração Global Dev Tonnie -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="">
+						Aceleração Global Dev Tonnie
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Step</th>
+				<th>Challenge</th>
+				<th>Solution</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Enjoy the Offer</td>
+				<td>
+					<a href="">
+						Source Code
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Head or Tail</td>
+				<td>
+					<a href="">
+						Source Code
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Exchanging Cards</td>
+				<td>
+					<a href="">
+						Source Code
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
+		<!-- Aceleração Global Dev #18 - GFT -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="">
+						Aceleração Global Dev #18 - GFT
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Copa</td>
+				<td>
+					<a href="">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Montanha-Russa</td>
+				<td>
+					<a href="">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Cachorros-Quentes</td>
+				<td>
+					<a href="">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 		<!-- Desafios Java Developer -->
 		<table border=1>
 			<tr>
