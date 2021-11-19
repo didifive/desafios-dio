@@ -16,40 +16,70 @@ Seguem abaixo os links para os desafios:
 			<th colspan="4">Desafios Java Developer</th>
 		</tr>
 		<tr>
-			<th>Etapa</th>
-			<th>Desafio</th>
-			<th>Solução</th>
-			<th>Status</th>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td>Visita na Feira</td>
+			<td>Xadrez</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/VisitaNaFeira.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/Chess.java">
 					Código
 				</a>
 			</td>
-			<td align="center">✅</td>
+			<td align="center">🔴</td>
 		</tr>
 		<tr>
 			<td align="center">2</td>
-			<td>Seis Números Ímpares</td>
+			<td>Trigo no Tabuleiro</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/SeisNumerosImpares.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/WheatOnTheBoard%20.java">
 					Código
 				</a>
 			</td>
-			<td align="center">✅</td>
+			<td align="center">🔴</td>
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td>Análise de Números</td>
+			<td>MacPRONALTS</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/AnaliseDeNumeros.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/MacPRONALTS.java">
 					Código
 				</a>
 			</td>
-			<td align="center">✅</td>
+			<td align="center">🔴</td>
+		</tr>
+		<tr>
+			<td align="center">4</td>
+			<td>Fuso Horário</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/TimeZone.java">
+					Código
+				</a>
+			</td>
+			<td align="center">🔴</td>
+		</tr>
+		<tr>
+			<td align="center">5</td>
+			<td>Par ou Ímpar</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/EvenOrOdd.java">
+					Código
+				</a>
+			</td>
+			<td align="center">🔴</td>
+		</tr>
+		<tr>
+			<td align="center">6</td>
+			<td>Dama</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/Checkers.java">
+					Código
+				</a>
+			</td>
+			<td align="center">🔴</td>
 		</tr>
 	</table>
 </div>

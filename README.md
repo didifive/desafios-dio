@@ -331,7 +331,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Desafios%20Java%20Developer">
 						Desafios Java Developer
 					</a>
 				</th>
@@ -346,7 +346,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Xadrez</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/Chess.java">
 						Código
 					</a>
 				</td>
@@ -356,7 +356,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">2</td>
 				<td>Trigo no Tabuleiro</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/WheatOnTheBoard%20.java">
 						Código
 					</a>
 				</td>
@@ -366,7 +366,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">3</td>
 				<td>MacPRONALTS</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/MacPRONALTS.java">
 						Código
 					</a>
 				</td>
@@ -376,7 +376,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">4</td>
 				<td>Fuso Horário</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/TimeZone.java">
 						Código
 					</a>
 				</td>
@@ -386,7 +386,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">5</td>
 				<td>Par ou Ímpar</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/EvenOrOdd.java">
 						Código
 					</a>
 				</td>
@@ -396,7 +396,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">6</td>
 				<td>Dama</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/Checkers.java">
 						Código
 					</a>
 				</td>
