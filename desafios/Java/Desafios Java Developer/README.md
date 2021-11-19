@@ -29,7 +29,7 @@ Seguem abaixo os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">🔴</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">2</td>
@@ -39,7 +39,7 @@ Seguem abaixo os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">🔴</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">3</td>
@@ -49,7 +49,7 @@ Seguem abaixo os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">🔴</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">4</td>
@@ -59,7 +59,7 @@ Seguem abaixo os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">🔴</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">5</td>
@@ -69,7 +69,7 @@ Seguem abaixo os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">🔴</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">6</td>
@@ -79,7 +79,7 @@ Seguem abaixo os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">🔴</td>
+			<td align="center">✅</td>
 		</tr>
 	</table>
 </div>
