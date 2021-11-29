@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/didifive/desafios-dio">
-	<a href="https://www.linkedin.com/in/alquiponeto/">
+	<a href="https://www.linkedin.com/in/luis-carlos-zancanela/">
 		<img alt="Made by Didi" src="https://img.shields.io/badge/made%20by-Didi-green">
 	</a>
 	<a href="https://github.com/didifive/desafios-dio/commits/master">
