@@ -453,7 +453,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer">
 						Desafio Java - Cognizant Developer
 					</a>
 				</th>
@@ -468,7 +468,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Andando no Tempo</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/TimeJump.java">
 						Código
 					</a>
 				</td>
@@ -478,7 +478,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">2</td>
 				<td>Saída 1</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/OutputOne.java">
 						Código
 					</a>
 				</td>

@@ -25,7 +25,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">1</td>
 			<td>Andando no Tempo</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/TimeJump.java">
 					Código
 				</a>
 			</td>
@@ -35,7 +35,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">2</td>
 			<td>Saída 1</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/OutputOne.java">
 					Código
 				</a>
 			</td>
