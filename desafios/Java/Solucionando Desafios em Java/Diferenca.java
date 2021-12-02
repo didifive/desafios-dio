@@ -50,6 +50,8 @@ public class Diferenca {
         int diferenca = ab-cd;
         
         System.out.println("DIFERENCA = "+ diferenca);
+
+        leitor.close();
     }
 	
 }

@@ -42,6 +42,7 @@ public class DobbyTime {
     		System.out.println("Deixa para amanha!");
     	else
     		System.out.println("Farei hoje!");
+      leitor.close();
     }
 	
 }

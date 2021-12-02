@@ -26,7 +26,7 @@ SOLUÇÃO ABAIXO: */
 
 import java.util.Scanner; 
 
-public class AreaCirculo{
+public class AreaDoCirculo{
 	
 	private static final double pi = 3.14159;
 	
@@ -39,6 +39,8 @@ public class AreaCirculo{
 		Double area = pi * (Math.pow(raio,2));
 
 		System.out.printf("A=%.4f\n", area);
+
+		sc.close();
     
 	}
 }

@@ -32,7 +32,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
-public class AnaliseNumeros {
+public class AnaliseDeNumeros {
 
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
@@ -52,6 +52,8 @@ public class AnaliseNumeros {
         System.out.println(imp.size() + " impar(es)");
         System.out.println(pos.size() + " positivo(s)");
         System.out.println(neg.size() + " negativo(s)");
+
+        sc.close();
 
     }
 }

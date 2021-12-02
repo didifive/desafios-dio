@@ -55,5 +55,7 @@ public class ContagemRepetidaNumeros {
                 .stream()
                 .sorted(Map.Entry.comparingByKey())
                 .forEach(e -> System.out.println(e.getKey() + " aparece " + e.getValue() + " vez(es)"));
+        
+        scr.close();
     }
 }

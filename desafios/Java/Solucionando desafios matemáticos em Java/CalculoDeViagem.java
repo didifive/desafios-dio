@@ -27,7 +27,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class CalculaViagem{
+public class CalculoDeViagem{
 
 	public static void main(String[] args){
 
@@ -41,6 +41,8 @@ public class CalculaViagem{
     Double calculo = (lista.get(0) * lista.get(1)) / 12;
                 
 		System.out.printf("%.3f", calculo);
+
+    sc.close();
 
 	}
 }

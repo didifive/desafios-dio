@@ -407,7 +407,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer">
 						Desafio Java Iniciante - Cognizant Developer
 					</a>
 				</th>
@@ -422,7 +422,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Tempo do Dobby</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/DobbyTime.java">
 						Código
 					</a>
 				</td>

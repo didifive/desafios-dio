@@ -65,5 +65,7 @@ public class  Idades {
 
         Double media = somaDouble/qtdeDouble;
         System.out.println(String.format("%.2f", media));
+
+        sc.close();
     }
 }

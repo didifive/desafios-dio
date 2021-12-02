@@ -45,5 +45,7 @@ public class Multiplos{
         } else {
             System.out.println("Nao sao Multiplos");
         }
+
+        leitor.close();
     }
 }

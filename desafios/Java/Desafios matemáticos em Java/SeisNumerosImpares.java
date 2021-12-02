@@ -43,5 +43,7 @@ public class SeisNumerosImpares {
     		cont++;
     		x++;
         }
+
+        leitor.close();
     }
 }
