@@ -23,30 +23,30 @@ Below are the links to the challenges:
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td>A Mudança</td>
+			<td>Enjoy the Offer</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/TurnsTime.java">
-					Código
+				<a href="">
+					Source Code
 				</a>
 			</td>
 			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">2</td>
-			<td>A Mudança Continua!!</td>
+			<td>Head or Tail</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/TurnsTimeUpdate.java">
-					Código
+				<a href="">
+					Source Code
 				</a>
 			</td>
 			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td>Colchão</td>
+			<td>Exchanging Cards</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/Mattress.java">
-					Código
+				<a href="">
+					Source Code
 				</a>
 			</td>
 			<td align="center">✅</td>

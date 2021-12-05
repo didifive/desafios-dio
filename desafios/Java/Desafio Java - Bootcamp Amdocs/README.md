@@ -23,9 +23,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td>Andando no Tempo</td>
+			<td>A Mudança</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/TimeJump.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/TurnsTime.java">
 					Código
 				</a>
 			</td>
@@ -33,9 +33,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">2</td>
-			<td>Saída 1</td>
+			<td>A Mudança Continua!!</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Cognizant%20Developer/OutputOne.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/TurnsTimeUpdate.java">
 					Código
 				</a>
 			</td>
@@ -43,9 +43,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td>Análise de Números</td>
+			<td>Colchão</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/AnaliseDeNumeros.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs/Mattress.java">
 					Código
 				</a>
 			</td>
