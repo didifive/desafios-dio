@@ -48,10 +48,8 @@ public class TurnsTimeUpdate{
           else if (graus >= 270 && graus < 360) salutation = "De Madrugada!!" ;
           else salutation = "Bom Dia!!";
 	    		    
-	    		Double horas = 6d;
-	    		if (graus >= 270 && graus < 360)
-	    		  horas -= 24d;
-	    		horas += graus/15;
+	    		Double horas = (graus/15)+6d;
+	    		if (graus >= 270 && graus < 360) horas -= 24d;
 	    		Double minutos = (horas-horas.intValue())*60;
 	    		Double segundos = (minutos-minutos.intValue())*60;
 	    		
