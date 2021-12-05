@@ -52,6 +52,11 @@ public class TurnsTimeUpdate{
 	    		if (horas>23) horas -= 24d;
 	    		Double minutos = (horas-horas.intValue())*60;
 	    		Double segundos = (minutos-minutos.intValue())*60;
+
+					if (segundos > 59) {
+	    			segundos = 0.0;
+	    			minutos += 1.0;
+	    		}
 	    		
 	    		System.out.printf("%s%n%02d:%02d:%02d%n", salutation, horas.intValue(), minutos.intValue(), segundos.intValue());
     		}
