@@ -558,7 +558,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 			</tr>
 			<tr>
 				<td align="center">1</td>
-				<td></td>
+				<td>Fatorial Simples</td>
 				<td>
 					<a href="https://github.com/didifive/desafios-dio/">
 						Código
@@ -568,7 +568,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 			</tr>
 			<tr>
 				<td align="center">2</td>
-				<td></td>
+				<td>Fibonacci Rápido</td>
 				<td>
 					<a href="https://github.com/didifive/desafios-dio/">
 						Código
@@ -578,7 +578,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 			</tr>
 			<tr>
 				<td align="center">3</td>
-				<td></td>
+				<td>Soma de Impares Consecutivos I</td>
 				<td>
 					<a href="https://github.com/didifive/desafios-dio/">
 						Código
