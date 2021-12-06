@@ -29,22 +29,22 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class EvenOrOdd {
-	public static void main(String[] args) throws IOException {
-  	Scanner sc = new Scanner(System.in);
-  	int tests = sc.nextInt();
-  	for (int i = 0; i < tests; i++) {
-  		
-  		int number = sc.nextInt();
-  		
-  		String evenOrOdd, positiveNegative, result;
-  		
-  		evenOrOdd = (number%2==0) ? "EVEN" : "ODD";
-  		positiveNegative = (number > 0) ? "POSITIVE" : "NEGATIVE";
-  		result = (number==0) ? "NULL" : evenOrOdd+" "+positiveNegative;
-  		
-  		System.out.println(result);
 
-      sc.close();
-  	}
+	public static void main(String[] args) throws IOException {
+		Scanner sc = new Scanner(System.in);
+		int tests = sc.nextInt();
+		for (int i = 0; i < tests; i++) {
+
+			int number = sc.nextInt();
+
+			String evenOrOdd, positiveNegative, result;
+
+			evenOrOdd = (number%2==0) ? "EVEN" : "ODD";
+			positiveNegative = (number > 0) ? "POSITIVE" : "NEGATIVE";
+			result = (number==0) ? "NULL" : evenOrOdd+" "+positiveNegative;
+
+			System.out.println(result);
+		}
+		sc.close();
 	}
 }
