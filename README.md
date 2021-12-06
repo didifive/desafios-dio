@@ -876,7 +876,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript">
 					Resolvendo Desafios Básicos em JavaScript
 				</a>
 			</th>
@@ -887,36 +887,36 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<th>Solução</th>
 				<th>Status</th>
 			</tr>
-				<tr>
-					<td align="center">1</td>
-					<td>Múltiplos</td>
-					<td>
-						<a href="https://github.com/didifive/desafios-dio/">
-							Código
-						</a>
-					</td>
-					<td align="center">✅</td>
-				</tr>
-				<tr>
-					<td align="center">2</td>
-					<td>Teste de Seleção 1</td>
-					<td>
-						<a href="https://github.com/didifive/desafios-dio/">
-							Código
-						</a>
-					</td>
-					<td align="center">✅</td>
-				</tr>
-				<tr>
-					<td align="center">3</td>
-					<td>Folha de Pagamento</td>
-					<td>
-						<a href="https://github.com/didifive/desafios-dio/">
-							Código
-						</a>
-					</td>
-					<td align="center">✅</td>
-				</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Múltiplos</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Multiples.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Teste de Seleção 1</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/SelectionTest.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Folha de Pagamento</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Payroll.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
 		</table>
 	</div>
 </details>
