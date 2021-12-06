@@ -23,9 +23,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td></td>
+			<td>Fatorial Simples</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/SimpleFactorial.java">
 					Código
 				</a>
 			</td>
@@ -33,9 +33,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">2</td>
-			<td></td>
+			<td>Fibonacci Rápido</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/FastFibonacci.java">
 					Código
 				</a>
 			</td>
@@ -43,9 +43,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td></td>
+			<td>Soma de Impares Consecutivos I</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafio%20Java%20-%20Bootcamp%20Amdocs%202/SumConsecutiveOdds.java">
 					Código
 				</a>
 			</td>
