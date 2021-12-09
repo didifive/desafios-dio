@@ -23,16 +23,6 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td></td>
-			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
-					Código
-				</a>
-			</td>
-			<td align="center">✅</td>
-		</tr>
-		<tr>
-			<td align="center">1</td>
 			<td>Quantidade de Números Positivos</td>
 			<td>
 				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/QuantityPositiveNumbers.java">
