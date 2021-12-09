@@ -591,7 +591,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java">
 						Fundamentos Aritméticos em Java
 					</a>
 				</th>
@@ -606,7 +606,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Quantidade de Números Positivos</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/QuantityPositiveNumbers.java">
 						Código
 					</a>
 				</td>
@@ -636,7 +636,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">4</td>
 				<td>Contagem de Cédulas</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/BankNoteCount.java">
 						Código
 					</a>
 				</td>
@@ -646,7 +646,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">5</td>
 				<td>Consumo Médio do Automóvel</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/AverageCarConsumption.java">
 						Código
 					</a>
 				</td>

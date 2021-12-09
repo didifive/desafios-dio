@@ -32,10 +32,20 @@ Seguem abaixo os links para os desafios:
 			<td align="center">✅</td>
 		</tr>
 		<tr>
-			<td align="center">2</td>
-			<td></td>
+			<td align="center">1</td>
+			<td>Quantidade de Números Positivos</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/QuantityPositiveNumbers.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">2</td>
+			<td>Exibindo Números Pares</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/ExibindoNumerosPares.java">
 					Código
 				</a>
 			</td>
@@ -43,9 +53,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td></td>
+			<td>Análise de Números</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/AnaliseDeNumeros.java">
 					Código
 				</a>
 			</td>
@@ -53,9 +63,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">4</td>
-			<td></td>
+			<td>Contagem de Cédulas</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/BankNoteCount.java">
 					Código
 				</a>
 			</td>
@@ -63,9 +73,9 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">5</td>
-			<td></td>
+			<td>Consumo Médio do Automóvel</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/AverageCarConsumption.java">
 					Código
 				</a>
 			</td>
