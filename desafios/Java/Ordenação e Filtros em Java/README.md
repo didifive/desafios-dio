@@ -21,55 +21,55 @@ Seguem abaixo os links para os desafios:
 			<th>Solução</th>
 			<th>Status</th>
 		</tr>
-					<tr>
-				<td align="center">1</td>
-				<td>Ordenando Números Pares e Ímpares</td>
-				<td>
-					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/SortingEvenOddNumbers.java">
-						Código
-					</a>
-				</td>
-				<td align="center">✅</td>
-			</tr>
-			<tr>
-				<td align="center">2</td>
-				<td>Compras no Supermercado</td>
-				<td>
-					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/SupermarketShopping.java">
-						Código
-					</a>
-				</td>
-				<td align="center">✅</td>
-			</tr>
-			<tr>
-				<td align="center">3</td>
-				<td>Uniformes de final de ano</td>
-				<td>
-					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/EndYearUniforms.java">
-						Código
-					</a>
-				</td>
-				<td align="center">✅</td>
-			</tr>
-			<tr>
-				<td align="center">4</td>
-				<td>Fila do Banco</td>
-				<td>
-					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/BankQueue.java">
-						Código
-					</a>
-				</td>
-				<td align="center">✅</td>
-			</tr>
-			<tr>
-				<td align="center">5</td>
-				<td>Gincana no Acampamento</td>
-				<td>
-					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/GymkhanaCamp.java">
-						Código
-					</a>
-				</td>
-				<td align="center">✅</td>
-			</tr>
-    </table>
+		<tr>
+			<td align="center">1</td>
+			<td>Ordenando Números Pares e Ímpares</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/SortingEvenOddNumbers.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">2</td>
+			<td>Compras no Supermercado</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/SupermarketShopping.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">3</td>
+			<td>Uniformes de final de ano</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/EndYearUniforms.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">4</td>
+			<td>Fila do Banco</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/BankQueue.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">5</td>
+			<td>Gincana no Acampamento</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/GymkhanaCamp.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+	</table>
 </div>
