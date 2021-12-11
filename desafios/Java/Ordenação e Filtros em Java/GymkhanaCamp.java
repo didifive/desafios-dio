@@ -43,14 +43,13 @@ SOLUÇÃO ABAIXO: */
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.ListIterator;
 import java.util.Scanner;
 
 public class GymkhanaCamp {
   public static void main(String[] args) throws IOException {
     Scanner sc = new Scanner(System.in);
     List<Student> studentsCircle = new ArrayList<>();
-    int actualStudentIndex, eliminatedStudentIndex, studentToken;
+    int actualStudentIndex, circleSize, eliminatedStudentIndex, studentToken;
     Integer actualToken, numberStudents;
     String studentName;
     Student student;
@@ -68,10 +67,9 @@ public class GymkhanaCamp {
       eliminatedStudentIndex = 0;
       student = studentsCircle.get(actualStudentIndex);
       actualToken = student.getToken();
+      circleSize = studentsCircle.size();
 
       for (int j=0; j<(numberStudents-1); j++) {
-        
-        int circleSize = studentsCircle.size();
         
         if (actualToken == 0) eliminatedStudentIndex = actualStudentIndex;
         else if (actualToken % 2 == 0) eliminatedStudentIndex = (circleSize - (actualToken % circleSize) + actualStudentIndex) % circleSize;
