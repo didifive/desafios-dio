@@ -2,7 +2,7 @@
 ====================================================
 Introdução a Busca e Substituição em Java
 ====================================================
-1/5 - Ordenação de palavras por tamanho
+4/5 - Pedra, Papel, Tesoura, Lagarto e Spock
 ====================================================
 
 Desafio

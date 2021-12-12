@@ -723,7 +723,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java">
 						Introdução a Busca e Substituição em Java
 					</a>
 				</th>
@@ -738,7 +738,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Ordenação de palavras por tamanho</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/WordOrderBySize.java">
 						Código
 					</a>
 				</td>
@@ -748,7 +748,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">2</td>
 				<td>Encontre a maior substring</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/FindLargestSubstring.java">
 						Código
 					</a>
 				</td>
@@ -758,7 +758,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">3</td>
 				<td>Validador de senhas com requisitos</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/PasswordValidator.java">
 						Código
 					</a>
 				</td>
@@ -768,7 +768,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">4</td>
 				<td>Pedra, Papel, Tesoura, Lagarto e Spock</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/RockPaperScissorsLizardSpock.java">
 						Código
 					</a>
 				</td>
@@ -778,7 +778,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">5</td>
 				<td>Atalhos para o Weblogger Brasil</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/WebloggerBrasil.java">
 						Código
 					</a>
 				</td>
