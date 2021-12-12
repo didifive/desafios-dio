@@ -785,6 +785,92 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Solução de Problemas com Java -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio/">
+						Solução de Problemas com Java
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Contagem repetida de números</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20Desafios%20em%20Java/ContagemRepetidaNumeros.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Vogais Extraterrestres</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Melhor amigo do Pablo</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Entrevista embaraçosa</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Conjuntos bons ou ruins?</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">6</td>
+				<td>Produto e divisão</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">7</td>
+				<td>Barras de ouro</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
 
