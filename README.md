@@ -719,6 +719,72 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Introdução a Busca e Substituição em Java -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio/">
+						Introdução a Busca e Substituição em Java
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Ordenação de palavras por tamanho</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Encontre a maior substring</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Validador de senhas com requisitos</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Pedra, Papel, Tesoura, Lagarto e Spock</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Atalhos para o Weblogger Brasil</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
 
