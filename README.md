@@ -875,7 +875,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java">
 						Resolvendo Algoritmos com Java
 					</a>
 				</th>
@@ -890,7 +890,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Coração das cartas</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/HeartOfCards.java">
 						Código
 					</a>
 				</td>
@@ -900,7 +900,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">2</td>
 				<td>Abreviando posts do blog</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/AbbreviatingBlogPosts.java">
 						Código
 					</a>
 				</td>
@@ -910,7 +910,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">3</td>
 				<td>Combinação de strings</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/StringCombination.java">
 						Código
 					</a>
 				</td>
@@ -920,7 +920,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">4</td>
 				<td>Hash Mágico</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/MagicHash.java">
 						Código
 					</a>
 				</td>
@@ -930,7 +930,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">5</td>
 				<td>O tabuleiro secreto</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/SecretBoard.java">
 						Código
 					</a>
 				</td>
