@@ -871,6 +871,72 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Resolvendo Algoritmos com Java -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio">
+						Resolvendo Algoritmos com Java
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Coração das cartas</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Abreviando posts do blog</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Combinação de strings</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Hash Mágico</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>O tabuleiro secreto</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
 
