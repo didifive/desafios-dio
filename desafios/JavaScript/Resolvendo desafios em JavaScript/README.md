@@ -21,6 +21,35 @@ Seguem abaixo os links para os desafios:
 			<th>Solução</th>
 			<th>Status</th>
 		</tr>
-		
+		<tr>
+			<td align="center">1</td>
+			<td>Frota de Táxi</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/TaxiFleet.js">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">2</td>
+			<td>Xadrez</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Chess.js">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">3</td>
+			<td>Nossos Dias Nunca Voltarão</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/OurDaysWillNeverComeBack.js">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
 	</table>
 </div>
