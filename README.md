@@ -1318,7 +1318,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript">
 					Resolvendo Desafios Intermediários em JavaScript
 				</a>
 			</th>
@@ -1333,7 +1333,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Triângulo</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Triangle.js">
 						Código
 					</a>
 				</td>
@@ -1343,7 +1343,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">2</td>
 				<td>Guilherme e Suas Pipas</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/GuilhermeHisKites.js">
 						Código
 					</a>
 				</td>
@@ -1353,7 +1353,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">3</td>
 				<td>Tomadas</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Sockets.js">
 						Código
 					</a>
 				</td>
