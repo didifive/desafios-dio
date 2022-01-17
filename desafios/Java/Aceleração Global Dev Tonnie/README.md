@@ -25,7 +25,7 @@ Below are the links to the challenges:
 			<td align="center">1</td>
 			<td>Enjoy the Offer</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/EnjoyTheOffer.java">
 					Source Code
 				</a>
 			</td>
@@ -35,7 +35,7 @@ Below are the links to the challenges:
 			<td align="center">2</td>
 			<td>Head or Tail</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/HeadOrTail.java">
 					Source Code
 				</a>
 			</td>
@@ -45,7 +45,7 @@ Below are the links to the challenges:
 			<td align="center">3</td>
 			<td>Exchanging Cards</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/ExchangingCards.java">
 					Source Code
 				</a>
 			</td>
