@@ -941,7 +941,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20GFT">
 						Aceleração Global Dev #19 GFT
 					</a>
 				</th>
@@ -956,7 +956,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">1</td>
 				<td>Taxa de Imposto de Renda</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20GFT/IncomeTax.java">
 						Código
 					</a>
 				</td>
@@ -966,7 +966,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">2</td>
 				<td>Vai Ter Copa?</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio/">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20GFT/WillThereBeAWorldCup.java">
 						Código
 					</a>
 				</td>
@@ -976,7 +976,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">3</td>
 				<td>Fórmula de Bhaskara</td>
 				<td>
-					<a href="https://github.com/didifive/desafios-dio">
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20GFT/BhaskarasFormula.java">
 						Código
 					</a>
 				</td>
