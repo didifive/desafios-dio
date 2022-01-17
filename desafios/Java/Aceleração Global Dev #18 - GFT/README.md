@@ -25,7 +25,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">1</td>
 			<td>Copa</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20-%20GFT/Tournament.java">
 					Código
 				</a>
 			</td>
@@ -35,7 +35,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">2</td>
 			<td>Montanha-Russa</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20-%20GFT/RollerCoaster.java">
 					Código
 				</a>
 			</td>
@@ -45,7 +45,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">3</td>
 			<td>Cachorros-Quentes</td>
 			<td>
-				<a href="">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20-%20GFT/HotDogs.java">
 					Código
 				</a>
 			</td>
