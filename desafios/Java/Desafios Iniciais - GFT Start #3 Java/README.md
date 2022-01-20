@@ -21,6 +21,35 @@ Seguem abaixo os links para os desafios:
 			<th>Solução</th>
 			<th>Status</th>
 		</tr>
-
+		<tr>
+			<td align="center">1</td>
+			<td>Multiplicação Simples</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/SimpleMultiplication.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">2</td>
+			<td>Resto 2</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/RestTwo.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">3</td>
+			<td>Xadrez</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20Developer/Chess.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
 	</table>
 </div>
