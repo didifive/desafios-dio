@@ -1590,5 +1590,71 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Programando com JS -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Programando%20com%20JS">
+					Programando com JS
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Quadrado de Pares</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Programando%20com%20JS/SquareOfPairs.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Resto 2</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Programando%20com%20JS/RestTwo.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Nossos Dias Nunca Voltarão</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/OurDaysWillNeverComeBack.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Tomadas</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Sockets.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Polígonos Regulares Simples</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/PoligonosRegularesSimples.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
