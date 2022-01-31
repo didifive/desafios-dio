@@ -1656,5 +1656,143 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Desafios Básicos - Eduzz FullStack Developer -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Desafios%20B%C3%A1sicos%20-%20Eduzz%20FullStack%20Developer">
+					Desafios Básicos - Eduzz FullStack Developer
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Pneu</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20B%C3%A1sicos%20-%20Eduzz%20FullStack%20Developer/Tire.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Triângulos e Polígonos Regulares</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20B%C3%A1sicos%20-%20Eduzz%20FullStack%20Developer/RegularTrianglesAndPolygons.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Seis Números Ímpares</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20B%C3%A1sicos%20-%20Eduzz%20FullStack%20Developer/SixOddNumbers.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
+		<!-- Desafios JavaScript - Eduzz FullStack Developer -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Desafios%20JavaScript%20-%20Eduzz%20FullStack%20Developer">
+					Desafios JavaScript - Eduzz FullStack Developer
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Notas da Prova</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/TestNotes.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Blobs</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Blobs.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Contagem de Cédulas</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20Matem%C3%A1ticos%20em%20JavaScript/ContagemDeCedulas.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
+		<!-- Desafios Intermediários JavaScript - Eduzz FullStack Developer -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer">
+					Desafios Intermediários JavaScript - Eduzz FullStack Developer
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Nome no Formulário</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/NameOnForm.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Compras no Supermercado</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/SupermarketShopping.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Programa para Validação de Notas</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20Matem%C3%A1ticos%20em%20JavaScript/ValidacaoDeNotas.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
