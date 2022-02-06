@@ -21,6 +21,35 @@ Seguem abaixo os links para os desafios:
 			<th>Solução</th>
 			<th>Status</th>
 		</tr>
-		
+		<tr>
+			<td align="center">1</td>
+			<td>Área Direita</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/RightArea.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">2</td>
+			<td>Experiências</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Intermedi%C3%A1rios%20-%20GFT%20Start%20%234%20Java/Experiences.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
+		<tr>
+			<td align="center">3</td>
+			<td>O tabuleiro secreto</td>
+			<td>
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Resolvendo%20Algoritmos%20com%20Java/SecretBoard.java">
+					Código
+				</a>
+			</td>
+			<td align="center">✅</td>
+		</tr>
 	</table>
 </div>
