@@ -1351,6 +1351,82 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Desafios - GFT QA #1 -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231">
+						Desafios - GFT QA #1
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Distância</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231/Distance.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Soma Simples</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231/SimpleSum.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Dividindo X por Y</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231/DividingXByY.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Encaixa ou Não I</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231/FitsOrNotI.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Múltiplos</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Java/Multiplos.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">6</td>
+				<td>Tempo de Jogo</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231/GameTime.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
 
