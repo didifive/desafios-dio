@@ -1549,6 +1549,52 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Desafios - Aceleração Global Dev #22 - Avanade -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade">
+						Desafios - Aceleração Global Dev #22 - Avanade
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Tempo de Jogo</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20-%20GFT%20QA%20%231/GameTime.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Feliz Nataaal!</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/MerryChristmas.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Galopeira</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Galopeira.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
 
