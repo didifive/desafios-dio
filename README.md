@@ -18,6 +18,9 @@
 	<a href="https://www.javascript.com/">
 	  <img alt="Java" src="https://img.shields.io/static/v1?color=yellow&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
 	</a>
+		<a href="https://kotlinlang.org/">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=7f52ff&label=Dev&message=Kotlin&style=for-the-badge&logo=Kotlin">
+	</a>
 </p>
 
 Este repositório foi criado para guardar e demonstrar como foram solucionados desafios realizados em bootcamps e eventos na plataforma da [dio.me](https://www.dio.me/)
@@ -2216,6 +2219,59 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td>Programa para Validação de Notas</td>
 				<td>
 					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/JavaScript/Desafios%20Matem%C3%A1ticos%20em%20JavaScript/ValidacaoDeNotas.js">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
+	</div>
+</details>
+<!-- Kotlin -->
+<details>
+	<summary><strong>Kotlin</strong></summary>
+	<br />
+	<div align="left">
+		<!-- Aceleração Global Dev #23 - TQI -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Kotlin/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI">
+					Aceleração Global Dev #23 - TQI
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Quadrado e ao Cubo</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Kotlin/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI/SquareAndCube.kt">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>O jogo Matemático de Paula</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Kotlin/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI/PaulasMathGame.kt">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Teste de Seleção 1</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Kotlin/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI/SelectionTest1.kt">
 						Código
 					</a>
 				</td>
