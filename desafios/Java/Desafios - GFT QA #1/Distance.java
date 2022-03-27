@@ -33,7 +33,7 @@ public class Distance {
   public static void main(String[] args) throws IOException {
     Scanner leitor = new Scanner(System.in);
     int km = leitor.nextInt();
-    int minutos = (km*6)/3;
+    int minutos = km*2;
     System.out.println(minutos + " minutos"); 
     leitor.close();
   }
