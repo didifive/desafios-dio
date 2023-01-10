@@ -1598,6 +1598,52 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Aceleração Avanade - Microsserviços com Java -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio/tree/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Avanade%20-%20Microsservi%C3%A7os%20com%20Java">
+						Desafios - Aceleração Avanade - Microsserviços com Java
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Quadrante</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Avanade%20-%20Microsservi%C3%A7os%20com%20Java/Quadrant.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Múltiplos de 13</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Avanade%20-%20Microsservi%C3%A7os%20com%20Java/MultiplesOf13.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Blobs</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Avanade%20-%20Microsservi%C3%A7os%20com%20Java/Blobs.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
 	</div>
 </details>
 
