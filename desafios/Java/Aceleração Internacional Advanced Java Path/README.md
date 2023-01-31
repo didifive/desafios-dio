@@ -45,7 +45,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">3</td>
 			<td>Exceeding V</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Internacional%20Advanced%20Java%20Path/DifferenceBetweenDigits.java">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Internacional%20Advanced%20Java%20Path/ExceedingV.java">
 					Código
 				</a>
 			</td>
