@@ -25,7 +25,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">1</td>
 			<td>Fábrica de Carros</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/CarFactory.java">
 					Código
 				</a>
 			</td>
@@ -35,7 +35,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">2</td>
 			<td>Imprimindo Positivos e Média</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/PositivesAndAverages.java">
 					Código
 				</a>
 			</td>
@@ -45,7 +45,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">3</td>
 			<td>Soma de H com N Termos</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/SumHWithNTerms.java">
 					Código
 				</a>
 			</td>
@@ -55,7 +55,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">4</td>
 			<td>Dragão</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/Dragon.java">
 					Código
 				</a>
 			</td>
@@ -65,7 +65,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">5</td>
 			<td>Fibonacci Fácil</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/blob/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/EasyFibonacci.java">
 					Código
 				</a>
 			</td>
