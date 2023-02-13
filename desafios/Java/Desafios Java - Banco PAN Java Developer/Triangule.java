@@ -41,15 +41,9 @@ public class Triangule {
 		double[] valores = new double[3];
 		for (int i = 0; i < 3; i++) valores[i] = leitor.nextDouble();
 		
-		double maior = Arrays.stream(valores).max().getAsDouble();
-		
-		double soma = (maior == valores[0])
-		                ? (valores[1] + valores[2])
-		                : (maior == valores[0])
-		                  ? (valores[0] + valores[2])
-		                  : (valores[0] + valores[1]);
-		
-		boolean triangulo = soma > maior;
+		boolean triangulo = (valores[0] + valores[1] > valores[2])
+                                    && (valores[0] + valores[2] > valores[1])
+                                    && (valores[1] + valores[2] > valores[0]);  
 		
 		double valor = 0d;
 		String mensagem = "";
