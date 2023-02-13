@@ -1757,6 +1757,65 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				</td>
 				<td align="center">✅</td>
 			</tr>
+			<tr>
+				<th colspan="4">Dominando Algoritmos Intermediários com Desafios de Código Java</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Animal</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/Animal.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Quitanda do Seu Zé</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/SeuZeGroceryStore.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Triângulo</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/Triangule.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Conta Espaços e Vogais</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Desafios%20Java%20-%20Banco%20PAN%20Java%20Developer/CountSpacesAndVowels.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Taxa de Imposto de Renda</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20GFT/IncomeTax.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
 		</table>
 	</div>
 </details>
