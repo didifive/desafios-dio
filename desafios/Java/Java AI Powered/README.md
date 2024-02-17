@@ -23,7 +23,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">1</td>
 			<td>Padronizando um Sistema de Gerenciamento de Usuários</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/UserManagerSystem.java">
 					Código
 				</a>
 			</td>
@@ -33,7 +33,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">2</td>
 			<td>Implementando uma Calculadora Simples com Padrão Strategy</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/SimpleCalculator.java">
 					Código
 				</a>
 			</td>
@@ -43,7 +43,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">3</td>
 			<td>Implementando um Catálogo de Produtos com Padrão Observer</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/CatalogSystem.java">
 					Código
 				</a>
 			</td>
@@ -53,7 +53,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">4</td>
 			<td>Implementando um Carrinho de Compras com Padrão Strategy</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/CartSystem.java">
 					Código
 				</a>
 			</td>
@@ -63,7 +63,7 @@ Seguem abaixo os links para os desafios:
 			<td align="center">5</td>
 			<td>Implementando um Adaptador para Conversão de Moedas</td>
 			<td>
-				<a href="https://github.com/didifive/desafios-dio/">
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/CurrencySystem.java">
 					Código
 				</a>
 			</td>
