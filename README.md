@@ -1690,6 +1690,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td align="center">✅</td>
 			</tr>
 		</table>
+		<!-- Desafios Java do Bootcamp Banco PAN Java Developer -->
 		<table border=1>
 			<tr>
 				<th colspan="4">
@@ -1811,6 +1812,75 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<td>Taxa de Imposto de Renda</td>
 				<td>
 					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20GFT/IncomeTax.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+		</table>
+		<!-- Java AI Powered -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+					<a href="https://github.com/didifive/desafios-dio">
+						Desafios Java do Bootcamp Java AI Powered
+					</a>
+				</th>
+			</tr>
+			<tr>
+				<th colspan="4">Desafios de Código Java Intermediários: Design Patterns</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Padronizando um Sistema de Gerenciamento de Usuários</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Implementando uma Calculadora Simples com Padrão Strategy</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Implementando um Catálogo de Produtos com Padrão Observer</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Implementando um Carrinho de Compras com Padrão Strategy</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Implementando um Adaptador para Conversão de Moedas</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/">
 						Código
 					</a>
 				</td>
