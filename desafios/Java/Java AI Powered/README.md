@@ -82,53 +82,53 @@ Seguem abaixo os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td></td>
+			<td>Registro de Alunos</td>
 			<td>
-				<!-- <a href="https://github.com/didifive/desafios-dio/"> -->
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/SistemaRegistroAluno.java">
 					Código
-				<!-- </a> -->
+				</a>
 			</td>
-			<td align="center">🔨</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">2</td>
-			<td></td>
+			<td>Sistema de Notificações</td>
 			<td>
-				<!-- <a href="https://github.com/didifive/desafios-dio/"> -->
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/SistemaNotificacao.java">
 					Código
-				<!-- </a> -->
+				</a>
 			</td>
-			<td align="center">🔨</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td></td>
+			<td>Calculando Desconto</td>
 			<td>
-				<!-- <a href="https://github.com/didifive/desafios-dio/"> -->
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/DiscountSystem.java">
 					Código
-				<!-- </a> -->
+				</a>
 			</td>
-			<td align="center">🔨</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">4</td>
-			<td></td>
+			<td>Princípio de Substituição de Liskov (LSP)</td>
 			<td>
-				<!-- <a href="https://github.com/didifive/desafios-dio/"> -->
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/LSP.java">
 					Código
-				<!-- </a> -->
+				</a>
 			</td>
-			<td align="center">🔨</td>
+			<td align="center">✅</td>
 		</tr>
 		<tr>
 			<td align="center">5</td>
-			<td></td>
+			<td>Gerenciamento de Colaboradores</td>
 			<td>
-				<!-- <a href="https://github.com/didifive/desafios-dio/"> -->
+				<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/EmployeeSystem.java">
 					Código
-				<!-- </a> -->
+				</a>
 			</td>
-			<td align="center">🔨</td>
+			<td align="center">✅</td>
 		</tr>
 	</table>
 </div>

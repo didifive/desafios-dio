@@ -1886,6 +1886,65 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				</td>
 				<td align="center">✅</td>
 			</tr>
+			<tr>
+				<th colspan="4">Desafios de Código Java Intermediários: S.O.L.I.D</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Registro de Alunos</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/SistemaRegistroAluno.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">2</td>
+				<td>Sistema de Notificações</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/SistemaNotificacao.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">3</td>
+				<td>Calculando Desconto</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/DiscountSystem.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">4</td>
+				<td>Princípio de Substituição de Liskov (LSP)</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/LSP.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
+			<tr>
+				<td align="center">5</td>
+				<td>Gerenciamento de Colaboradores</td>
+				<td>
+					<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Java%20AI%20Powered/EmployeeSystem.java">
+						Código
+					</a>
+				</td>
+				<td align="center">✅</td>
+			</tr>
 		</table>
 	</div>
 </details>
