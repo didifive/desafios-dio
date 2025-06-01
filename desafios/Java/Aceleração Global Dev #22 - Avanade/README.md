@@ -1,10 +1,10 @@
-# Desafios e soluções da [dio.me](https://www.dio.me/)
+# Desafios e soluções da [dio.me](https://www.dio.me/sign-up?ref=WQ0TRWQ8E1)
 
 ## Aceleração Global Dev #22 - Avanade
 
 ### Desafios teste de aprovação para participação no evento
 
-Nesta pasta você encontrará desafios de teste de aprovação para participação na "Aceleração Global Dev #22 - Avanade" da [dio.me](https://www.dio.me/).
+Nesta pasta você encontrará desafios de teste de aprovação para participação na "Aceleração Global Dev #22 - Avanade" da [dio.me](https://www.dio.me/sign-up?ref=WQ0TRWQ8E1).
 
 Sugestão: evite copiar e colar, a ideia dos desafios é que você os enfrente, então se na dificuldade chegou até esse ponto, aproveite para ver como resolvi o desafio e como posso melhorar, a análise é mínima a ser feito.
 
