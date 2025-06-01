@@ -1,10 +1,10 @@
-# Challenges and solutions of the [dio.me](https://www.dio.me/)
+# Challenges and solutions of the [dio.me](https://www.dio.me/sign-up?ref=WQ0TRWQ8E1)
 
 ## Aceleração Global Dev TONNIE
 
 ### Challenges test of approval for participation in the event
 
-In this folder you will find challenges test of approval for participation in the [dio.me](https://www.dio.me/) "Aceleração Global Dev TONNIE". 
+In this folder you will find challenges test of approval for participation in the [dio.me](https://www.dio.me/sign-up?ref=WQ0TRWQ8E1) "Aceleração Global Dev TONNIE". 
 
 Suggestion: avoid copying and pasting, the idea of challenges is that you face them, so if in the difficulty has reached this point, you take the opportunity to see how I solved the challenge and how it can be improved, the analysis is the minimum to be done.
 

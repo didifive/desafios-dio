@@ -1,10 +1,10 @@
-# Desafios e soluções da [dio.me](https://www.dio.me/)
+# Desafios e soluções da [dio.me](https://www.dio.me/sign-up?ref=WQ0TRWQ8E1)
 
 ## Bootcamp Eduzz Fullstack Developer #2
 
 ### Trilha de desafios: Resolvendo Desafios Básicos em JavaScript
 
-Nesta pasta encontram-se os desafios "Resolvendo Desafios Básicos em JavaScript" do bootcamp "Eduzz Fullstack Developer #2" da [dio.me](https://www.dio.me/)
+Nesta pasta encontram-se os desafios "Resolvendo Desafios Básicos em JavaScript" do bootcamp "Eduzz Fullstack Developer #2" da [dio.me](https://www.dio.me/sign-up?ref=WQ0TRWQ8E1)
 
 Sugestão: evite o copia e cola, a ideia dos desafios é que você os enfrente, então se na dificuldade chegou até aqui, aproveite para ver como o desafio foi solucionado e como pode ser melhorado, a análise é o mínimo a se fazer.
 
